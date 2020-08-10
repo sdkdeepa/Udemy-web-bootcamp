@@ -13,4 +13,5 @@ Some important links
 - http://seanhalpin.io/ - beautiful example of a resume website
 - https://www.frontendmentor.io/challenges - where you can practice challenges
 - https://color.adobe.com/create/color-wheel - Adobe color wheel
+- https://www.cssfontstack.com/ - popular fonts used 
 
