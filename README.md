@@ -1,5 +1,7 @@
 # Udemy-web-bootcamp
 
+- https://www.codeply.com/u/sdk_deepa - My codeply 
+
 Some important links
 
 - https://www.appbrewery.co/p/web-development-course-resources - this has ton of very useful links
@@ -10,3 +12,5 @@ Some important links
 - https://www.favicon.cc/ - to create your favorite icon on the tabs 
 - http://seanhalpin.io/ - beautiful example of a resume website
 - https://www.frontendmentor.io/challenges - where you can practice challenges
+- https://color.adobe.com/create/color-wheel - Adobe color wheel
+
