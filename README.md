@@ -14,4 +14,7 @@ Some important links
 - https://www.frontendmentor.io/challenges - where you can practice challenges
 - https://color.adobe.com/create/color-wheel - Adobe color wheel
 - https://www.cssfontstack.com/ - popular fonts used 
+- https://fonts.google.com - get the embedded link to copy in your html document.
+
+![Image of google font selection](/Users/deepa/Desktop/Google-fonts.png)
 
