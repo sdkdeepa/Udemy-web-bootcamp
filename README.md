@@ -1,4 +1,6 @@
-# Udemy-web-bootcamp Topics covered
+# Udemy: The complete web development bootcamp 
+
+## Topics covered
 
 - HTML
 - CSS
