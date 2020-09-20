@@ -1,0 +1,9 @@
+body{
+  background-color: cyan;
+}
+
+.big-heading{
+  font-size: 10rem;
+  font-family: cursive;
+  color: yellow;
+}
