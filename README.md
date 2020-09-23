@@ -61,6 +61,11 @@
 
 https://www.appbrewery.co/p/web-development-course-resources
 
+##  Wireframing of the portfolio project
+** This is a design for Desktop screen
+
+![Desktop-design](https://github.com/sdkdeepa/sdkdeepa.github.io/blob/master/)
+
 ## Projects
 
 - Project 1 : Using HTML created personal site - https://sdkdeepa.github.io/resume/
