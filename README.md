@@ -63,7 +63,7 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 ##  Wireframing of the portfolio project
 
-![Mobile-view](https://github.com/sdkdeepa/sdkdeepa.github.io/blob/master/TinDog.png)
+![Mobile-view](https://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/TinDog.png)
 
 ## Projects
 
