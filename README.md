@@ -61,10 +61,6 @@
 
 https://www.appbrewery.co/p/web-development-course-resources
 
-##  Wireframing of the portfolio project
-
-![Mobile-view](https://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/TinDog.png)
-
 ## Projects
 
 - Project 1 : Using HTML created personal site - https://sdkdeepa.github.io/resume/
@@ -80,5 +76,9 @@ https://www.appbrewery.co/p/web-development-course-resources
 - Project 5 : Simon Game - JS and jQuery - https://sdkdeepa.github.io/Simon-Game-Jquery/
 
 - Project 7: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc - https://afternoon-headland-55648.herokuapp.com/ 
+
+##  Wireframing of the portfolio project
+
+![Mobile-view](https://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/TinDog.png)
 
 
