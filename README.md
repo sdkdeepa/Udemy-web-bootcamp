@@ -20,8 +20,9 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 - Project 8: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc - https://afternoon-headland-55648.herokuapp.com/ 
 
+- Project 6:
 
-Project 6:
+![Desktop-view](https://github.com/sdkdeepa/sdkdeepa.github.io/blob/master/Calculator.gif)
 
 
 
