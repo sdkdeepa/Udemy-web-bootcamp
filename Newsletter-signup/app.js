@@ -10,8 +10,8 @@ const https = require("https");
 const app = express();
 
 //mailChimp api key
-//api key 9ce57838bb9afdd4c3dcab4359d611e3-us2
-//Mailchimp list id  = 9a650ee494
+//api key 
+//Mailchimp list id  
 
 //app.use
 app.use(express.static("public"));
@@ -46,11 +46,11 @@ app.post("/", function(req,res){
   //       AS THIS CODE WILL BE PUSHED TO PUBLIC GITHUB
 
 var jsonData = JSON.stringify(data);
-const url = "https://us2.api.mailchimp.com/3.0/lists/9a650ee494";
+const url = "https://us2.api.mailchimp.com/3.0/lists/abacdefghijk";
 
 const options = {
   method:"POST",
-  auth:"deepa1:9ce57838bb9afdd4c3dcab4359d611e3-us2"
+  auth:""
 }
 
 const request = https.request(url, options, function(response){
