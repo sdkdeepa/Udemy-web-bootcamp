@@ -22,7 +22,7 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 - Project 6:
 
-![Desktop-view](hhttps://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/Calculator.gif)
+![Desktop-view](https://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/Calculator.gif)
 
 - Project 7:
 
