@@ -26,7 +26,7 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 - Project 7:
 
-![Desktop-view](https://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/.   )
+![Desktop-view](https://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/WeatherApp.gif)
 
 
 ##  Wireframing of the portfolio project
