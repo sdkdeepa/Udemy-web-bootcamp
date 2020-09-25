@@ -20,11 +20,11 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 - Project 8: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc - https://afternoon-headland-55648.herokuapp.com/ 
 
-- Project 6:
+- Project 6: BMI Calculator - Node.js and Express.js. This project using API methods such as GET and POST to calculate the BMI
 
 ![Desktop-view](https://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/Calculator.gif)
 
-- Project 7:
+- Project 7: Weather App - Node.js and Express.js. This project uses external weather API to make GET call to get the weather data after a POST request is sent.
 
 ![Desktop-view](https://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/WeatherApp.gif)
 
