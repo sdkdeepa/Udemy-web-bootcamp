@@ -22,22 +22,11 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 - Project 6:
 
-![Desktop-view](https://github.com/sdkdeepa/sdkdeepa.github.io/blob/master/Calculator.gif)
+![Desktop-view](hhttps://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/Calculator.gif)
 
+- Project 7:
 
-
-
-
-
-
-
-Project 7:
-
-
-
-
-
-
+![Desktop-view](https://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/.   )
 
 
 ##  Wireframing of the portfolio project
