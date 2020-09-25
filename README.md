@@ -18,7 +18,26 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 - Project 5 : Simon Game - JS and jQuery - https://sdkdeepa.github.io/Simon-Game-Jquery/
 
-- Project 7: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc - https://afternoon-headland-55648.herokuapp.com/ 
+- Project 8: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc - https://afternoon-headland-55648.herokuapp.com/ 
+
+
+Project 6:
+
+
+
+
+
+
+
+
+Project 7:
+
+
+
+
+
+
+
 
 ##  Wireframing of the portfolio project
 
