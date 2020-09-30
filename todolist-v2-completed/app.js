@@ -52,7 +52,7 @@ app.get("/", function(req, res) {
         if (err) {
           console.log(err);
         } else {
-          console.log("Successfully savevd default items to DB.");
+          console.log("Successfully saved default items to DB.");
         }
       });
       res.redirect("/");
