@@ -20,7 +20,8 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 - Project 8: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc - https://afternoon-headland-55648.herokuapp.com/ 
 
-- Project 9 and 10: Todo List app - Continuation of Todo list app v2. Added get, post and delete routes. Can create and delete new todo list by adding custom list to the home route. Using MongoDB altas and heroku hosted the application. Check out: https://tranquil-earth-77166.herokuapp.com/
+- Project 9 and 10: Todo List app - Continuation of Todo list app v2. Added get, post and delete routes. Can create and delete new todo list by adding custom list to the home route. Using MongoDB altas and heroku hosted the application. 
+Check out: https://tranquil-earth-77166.herokuapp.com/
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
