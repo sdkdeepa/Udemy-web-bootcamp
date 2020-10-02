@@ -18,11 +18,6 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 - Project 5 : Simon Game - JS and jQuery - https://sdkdeepa.github.io/Simon-Game-Jquery/
 
-- Project 8: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc - https://afternoon-headland-55648.herokuapp.com/ 
-
-- Project 9 and 10: Todo List app - Continuation of Todo list app v2. Added get, post and delete routes. You can now create and delete todo list for today and for custom list. Custom list can be added to the home route (ex: /work). Using MongoDB Altas cloud database the data is collected. Hosted application through Heroku.
-Check out: https://tranquil-earth-77166.herokuapp.com/
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Project 6: BMI Calculator - Node.js and Express.js. This project using API methods such as GET and POST to calculate the BMI
@@ -41,6 +36,16 @@ Check out: https://tranquil-earth-77166.herokuapp.com/
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Project 8: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc - https://afternoon-headland-55648.herokuapp.com/ 
+
+- Project 9 and 10: Todo List app - Continuation of Todo list app v2. Added get, post and delete routes. You can now create and delete todo list for today and for custom list. Custom list can be added to the home route (ex: /work). Using MongoDB Altas cloud database the data is collected. Hosted application through Heroku.
+Check out: https://tranquil-earth-77166.herokuapp.com/
+
+- Project 11: Multipage Personal Blog Website - Created a multi page personal blog application using HTML, CSS, Bootstrap, JS, Node.js, Express.js, body-parser, API, EJS, Heroku, Mongoose, MogoDB Altas cloud cluster. Checkout: https://morning-brook-32061.herokuapp.com/
+
+
+
 
 ##  Wireframing of the portfolio project
 
