@@ -1,6 +1,0 @@
-<%- include("partials/header"); -%>
-
-  <h1><%=title%></h1>
-  <p><%=content%></p>
-
-<%- include("partials/footer"); -%>
