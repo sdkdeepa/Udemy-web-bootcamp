@@ -47,7 +47,7 @@ Check out: https://tranquil-earth-77166.herokuapp.com/
 
 
 
-##  Wireframing of the portfolio project
+### Wireframing of the portfolio project
 
 ![Mobile-view](https://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/TinDog.png)
 
