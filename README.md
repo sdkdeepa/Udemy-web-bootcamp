@@ -35,6 +35,15 @@ Google chrome extensions:
 - Pesticide
 - JSON viewer awesome
 
+### Packages to be installed 
+Check before installing the packages
+
+``` 
+npm init
+
+npm i express ejs body-parser mongoose
+
+```
 
 ### Server starting code
 
