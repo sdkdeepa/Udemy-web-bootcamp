@@ -31,7 +31,7 @@ Some important links
 - https://lodash.com/ - loadash
 - https://mongoosejs.com/docs/models.html
 - How body parser works - https://medium.com/@adamzerner/how-bodyparser-works-247897a93b90
-- https://expressjs.com/en/guide/routing.html - express js routing 
+- https://expressjs.com/en/guide/routing.html - express js app routing 
 - https://github.com/londonappbrewery/Build-Your-Own-RESTful-API - Angela's build your own restful API
 - https://cryptii.com/ - basic encryption ceaser cipher
 - https://www.npmjs.com/package/mongoose-encryption - Mongoose encryption
