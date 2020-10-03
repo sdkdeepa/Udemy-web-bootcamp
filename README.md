@@ -35,6 +35,7 @@ Some important links
 - https://github.com/londonappbrewery/Build-Your-Own-RESTful-API - Angela's build your own restful API
 - https://cryptii.com/ - basic encryption ceaser cipher
 - https://www.npmjs.com/package/mongoose-encryption - Mongoose encryption
+- https://www.npmjs.com/package/dotenv - dotenv package
 
 - Google OAuth - http://www.passportjs.org/packages/passport-google-oauth20/
 
