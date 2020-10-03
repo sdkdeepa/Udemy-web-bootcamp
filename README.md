@@ -2,6 +2,12 @@
 
 - https://www.codeply.com/u/sdk_deepa - My codeply 
 
+### Angela Yu's Github pages
+
+- https://github.com/londonappbrewery/Build-Your-Own-RESTful-API#server-starting-code
+- https://github.com/londonappbrewery/Authentication-Secrets
+
+
 Some important links
 
 - https://www.appbrewery.co/p/web-development-course-resources - this has ton of very useful links
@@ -28,6 +34,7 @@ Some important links
 - https://expressjs.com/en/guide/routing.html - express js routing 
 - https://github.com/londonappbrewery/Build-Your-Own-RESTful-API - Angela's build your own restful API
 - Google OAuth - http://www.passportjs.org/packages/passport-google-oauth20/
+
 
 ![Image of google font selection](/Users/deepa/Desktop/Google-fonts.png)
 
