@@ -15,14 +15,19 @@ Some important links
 - https://color.adobe.com/create/color-wheel - Adobe color wheel
 - https://www.cssfontstack.com/ - popular fonts used 
 - https://fonts.google.com - get the embedded link to copy in your html document.
+- 
 
 
 
 
 
 - https://docs.emmet.io/cheat-sheet/
+- https://lodash.com/ - loadash
 - https://mongoosejs.com/docs/models.html
 - How body parser works - https://medium.com/@adamzerner/how-bodyparser-works-247897a93b90
+- https://expressjs.com/en/guide/routing.html - express js routing 
+- https://github.com/londonappbrewery/Build-Your-Own-RESTful-API - Angela's build your own restful API
+- Google OAuth - http://www.passportjs.org/packages/passport-google-oauth20/
 
 ![Image of google font selection](/Users/deepa/Desktop/Google-fonts.png)
 
