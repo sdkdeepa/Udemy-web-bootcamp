@@ -16,5 +16,16 @@ Some important links
 - https://www.cssfontstack.com/ - popular fonts used 
 - https://fonts.google.com - get the embedded link to copy in your html document.
 
+
+
+
+
+- https://docs.emmet.io/cheat-sheet/
+- https://mongoosejs.com/docs/models.html
+- How body parser works - https://medium.com/@adamzerner/how-bodyparser-works-247897a93b90
+
 ![Image of google font selection](/Users/deepa/Desktop/Google-fonts.png)
 
+Google chrome extensions:
+- Pesticide
+- JSON viewer awesome
