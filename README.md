@@ -61,6 +61,10 @@ To install monogoose encryption
 ```
 npm i mongoose-encrytion
 ```
+To install Dotenv
+```
+npm i  dotenv
+```
 
 ### Server starting code
 
