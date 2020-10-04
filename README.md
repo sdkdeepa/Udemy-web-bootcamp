@@ -66,6 +66,20 @@ To install Dotenv
 npm i  dotenv
 ```
 
+To install bcrypt
+```
+npm i bycrypt
+
+//make sure you have the stable node version
+
+```
+
+To install passport
+```
+npm i passport passport-local passport-local-mongoose express-session
+
+```
+
 ### Server starting code
 
 ```
