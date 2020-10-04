@@ -16,14 +16,14 @@ app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static("public"));
 
-mongoose.connect("serverpathr",{useNewUrlParser: true},{useUnifiedTopology: true});
+mongoose.connect("<serverPath>",{useNewUrlParser: true},{useUnifiedTopology: true});
 
 //Creating a Schema
 const postSchema = {
   title: String,
   content: String
 };
-//mongoose model 
+//mongoose model
 const Post = mongoose.model("Post", postSchema);
 
 //the home route
