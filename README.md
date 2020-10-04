@@ -253,4 +253,76 @@ Folder: Secrets
   * Visual Studio Code
   * https://codesandbox.io/
 
+#### Google chrome extensions:
+- Pesticide
+- JSON viewer awesome
+
+### Packages to be installed 
+Check before installing the packages
+
+``` 
+npm init
+
+npm i express ejs body-parser mongoose
+
+```
+To install monogoose encryption
+
+```
+npm i mongoose-encrytion
+```
+To install Dotenv
+```
+npm i  dotenv
+```
+
+To install bcrypt
+```
+npm i bycrypt
+
+//make sure you have the stable node version
+
+```
+
+To install passport
+```
+npm i passport passport-local passport-local-mongoose express-session
+
+```
+
+To findorcreate from mongoose
+
+```
+npm i mongoose-findorcreate
+//when using 3rd party authentication like Google or fb your application can simply create one of these account direclt from you webapplication.
+
+```
+
+### Server starting code
+
+```
+//jshint esversion:6
+
+require('dotenv').config();
+const express = require("express");
+const bodyParser = require("body-parser");
+const ejs = require("ejs");
+const mongoose = require('mongoose');
+
+const app = express();
+
+app.set('view engine', 'ejs');
+
+app.use(bodyParser.urlencoded({
+  extended: true
+}));
+app.use(express.static("public"));
+
+//TODO
+
+app.listen(3000, function() {
+  console.log("Server started on port 3000");
+});
+```
+
 
