@@ -80,6 +80,14 @@ npm i passport passport-local passport-local-mongoose express-session
 
 ```
 
+To findorcreate from mongoose
+
+```
+npm i mongoose-findorcreate
+//when using 3rd party authentication like Google or fb your application can simply create one of these account direclt from you webapplication.
+
+```
+
 ### Server starting code
 
 ```
