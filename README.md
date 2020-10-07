@@ -45,10 +45,6 @@ Check out: https://tranquil-earth-77166.herokuapp.com/
 - Project 11: Multipage Personal Blog Website - Created a multi page personal blog application using HTML, CSS, Bootstrap, JS, Node.js, Express.js, body-parser, API, EJS, Heroku, Mongoose, MogoDB Altas cloud cluster. Checkout: https://morning-brook-32061.herokuapp.com/
 
 
-### Wireframing of the portfolio project
-
-see in screenshots branch
-
 ## Topics covered
 
 HTML, CSS, JavaScript, Bootstrap 4, DOM & DOM Manipulation, jQuery, Node.js, Express, React EJS, body-parser, nodemon, lodash, MongoDB, MongoDB Atlas, 
