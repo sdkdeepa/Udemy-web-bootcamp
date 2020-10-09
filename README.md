@@ -129,26 +129,26 @@ Section 22: EJS
 289: Understanding Node Module Exports: How to Pass Functions and Data between Files
 
 ### Section 23: Boss Level Challenge 3 - Blog Website
-Get Home route and add content to home.ejs
-Pass data from homeStartingContent to home.ejs
-Add header and footer partials to home.ejs
-Moved header and footer to partials folder
-Add About and Contact routes, pass content to about and contact.ejs
-Add nav href to header
-Add compose form and POST route
-Add text fields to compose form and use bootstrap
-Create JS object for post
-Push post into posts array
-Add posts to render array
-Loop through all posts
-Refactor for loop to use forEach
-Render each post onto Home
-Add express routing parameters /posts/:blogPost
-Loop through posts array to check if it matches title in url
-Add lodash and use _.lowerCase on titles
-Separate page for each blog post
-Truncate post body on Home page to 100 characters
-Add Read More to posts
+- Get Home route and add content to home.ejs
+- Pass data from homeStartingContent to home.ejs
+- Add header and footer partials to home.ejs
+- Moved header and footer to partials folder
+- Add About and Contact routes, pass content to about and contact.ejs
+- Add nav href to header
+- Add compose form and POST route
+- Add text fields to compose form and use bootstrap
+- Create JS object for post
+- Push post into posts array
+- Add posts to render array
+- Loop through all posts
+- Refactor for loop to use forEach
+- Render each post onto Home
+- Add express routing parameters /posts/:blogPost
+- Loop through posts array to check if it matches title in url
+- Add lodash and use _.lowerCase on titles
+- Separate page for each blog post
+- Truncate post body on Home page to 100 characters
+- Add Read More to posts
 
 ### Section 27: Mongoose
 - 357: Introduction to Mongoose
