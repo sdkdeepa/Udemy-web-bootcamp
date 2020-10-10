@@ -45,11 +45,8 @@ Check out: https://tranquil-earth-77166.herokuapp.com/
 - Project 11: Multipage Personal Blog Website - Created a multi page personal blog application using HTML, CSS, Bootstrap, JS, Node.js, Express.js, body-parser, API, EJS, Heroku, Mongoose, MogoDB Altas cloud cluster. Checkout: https://morning-brook-32061.herokuapp.com/
 
 
-
-
 ### Wireframing of the portfolio project
-
-![Mobile-view](https://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/TinDog.png)
+- see TinDog.png
 
 ## Topics covered
 HTML, CSS, JavaScript, Bootstrap 4, DOM & DOM Manipulation, jQuery, Node.js, Express, React EJS, body-parser, nodemon, lodash, MongoDB, MongoDB Atlas, 
@@ -79,7 +76,7 @@ mongoose, mongoose-encryption,  dotenv, md5, bcrypt, passport, passport-local, p
 ### Section 13: Advanced JavaScript and DOM Manipulation
 - 172: Higher Order Function Challenge
 
-### Drum Kit
+### Section 14: Drum Kit
 - 171: Adding Event Listners to a Button
 - 174: How to Play Sounds on a Website
 - 176: How to Use Switch Statements in JavaScript
@@ -99,35 +96,37 @@ mongoose, mongoose-encryption,  dotenv, md5, bcrypt, passport, passport-local, p
 - Restart the Game
 
 ### Section 19: Express.js with Node.js
-241: Creating Our First Server with Express
-242: Handling Requests and Responses: the GET Request
-244: Understanding and Working with Routes
-246: Calculator Challenge Setup
-248: Responding to Requests with HTML Files
-249: Processing Post Requests with Body Parser
-250: BMI Routing Challenge
+- 241: Creating Our First Server with Express
+- 242: Handling Requests and Responses: the GET Request
+- 244: Understanding and Working with Routes
+- 246: Calculator Challenge Setup
+- 248: Responding to Requests with HTML Files
+- 249: Processing Post Requests with Body Parser
+- 250: BMI Routing Challenge
 
 ### Section 20: APIs - Application Programming Interfaces
-Weather Project
-258: Making GET Requests with the Node HTTPS Module
-259: How to Parse JSON
-260: Using Express to Render a Website with Live API Data
-261: Using Body Parser to Parse POST Requests to the Server
+- 258: Making GET Requests with the Node HTTPS Module
+- 259: How to Parse JSON
+- 260: Using Express to Render a Website with Live API Data
+- 261: Using Body Parser to Parse POST Requests to the Server
+Project: Weather Project
 
-### Newsletter Signup
-263: Setting up the Sign Up Page
-264: Posting Data to Mailchimp's Servers via their API
-265: Adding Success and Failure Pages
-266: Deploying Your Server with Heroku (https://gentle-wildwood-03304.herokuapp.com/)
+### Section 21: Newsletter Signup
+- 263: Setting up the Sign Up Page
+- 264: Posting Data to Mailchimp's Servers via their API
+- 265: Adding Success and Failure Pages
+- 266: Deploying Your Server with Heroku 
+
+Project: https://gentle-wildwood-03304.herokuapp.com/
 
 ### Section 22: EJS
-282: Templates? Why Do We Need Templates?
-283: Creating Your First EJS Template
-284: Running Code Inside the EJS Template
-285: Passing Data from Your Webpage to Your Server
-287: Adding Pre-Made CSS Stylesheets to Your Website
-288: Understanding Templating vs Layouts
-289: Understanding Node Module Exports: How to Pass Functions and Data between Files
+- 282: Templates? Why Do We Need Templates?
+- 283: Creating Your First EJS Template
+- 284: Running Code Inside the EJS Template
+- 285: Passing Data from Your Webpage to Your Server
+- 287: Adding Pre-Made CSS Stylesheets to Your Website
+- 288: Understanding Templating vs Layouts
+- 289: Understanding Node Module Exports: How to Pass Functions and Data between Files
 
 ### Section 23: Boss Level Challenge 3 - Blog Website
 - Get Home route and add content to home.ejs
