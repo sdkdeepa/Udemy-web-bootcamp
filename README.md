@@ -119,7 +119,8 @@ Weather Project
 264: Posting Data to Mailchimp's Servers via their API
 265: Adding Success and Failure Pages
 266: Deploying Your Server with Heroku (https://gentle-wildwood-03304.herokuapp.com/)
-Section 22: EJS
+
+### Section 22: EJS
 282: Templates? Why Do We Need Templates?
 283: Creating Your First EJS Template
 284: Running Code Inside the EJS Template
@@ -222,15 +223,15 @@ Folder: Secrets
 - 431: JavaScript ES6 Import, Export and Modules Practice
 - 434: Keeper App Project - Part 1
 - 436: React Props
-- 437: React Props Practice
-- 438: React DevTools
-- 439: Mapping Data to Components
-- 440: Mapping Data to Components Practice
+- 437: React Props Practice 
+- 438: React DevTools - https://990sq.csb.app/
+- 439: Mapping Data to Components - https://0lrqy.csb.app/ 
+- 440: Mapping Data to Components Practice - https://1kzup.csb.app/
 - 441: JavaScript ES6 Map/Filter/Reduce
 - 442: JavaScript ES6 Arrow functions
 - 443: Keeper App Project - Part 2
 - 444: React Conditional Rendering with the Ternary Operator & AND Operator
-- 445: Conditional Rendering Practice
+- 445: Conditional Rendering Practice - https://pr7ow.csb.app/
 - 447: React Hooks - useState
 - 448: useState Hook Practice
 - 449: JavaScript ES6 Object & Array Destructuring
@@ -243,8 +244,8 @@ Folder: Secrets
 - 457: JavaScript ES6 Spread Operator Practice
 - 458: Managing a Component Tree
 - 459: Managing a Component Tree Practice
-- 460: Keeper App Project - Part 3
-- 461: React Dependencies & Styling the Keeper App
+- 460: Keeper App Project - Part 3 
+- 461: React Dependencies & Styling the Keeper App - https://pbt9b.csb.app/ 
 
 ### Tools used:
   * codepen
