@@ -254,6 +254,4 @@ Folder: Secrets
   * Visual Studio Code
   * https://codesandbox.io/
 
-### Certificate
 
-![Desktop-design](https://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/FullStack.jpg)
