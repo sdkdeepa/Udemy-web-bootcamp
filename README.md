@@ -20,8 +20,6 @@ https://www.appbrewery.co/p/web-development-course-resources
 
 - Project 5 : Simon Game - JS and jQuery - https://sdkdeepa.github.io/Simon-Game-Jquery/
 
----
-
 - Project 6: BMI Calculator - Node.js and Express.js. This project using API methods such as GET and POST to calculate the BMI
 
 <p align="center">
@@ -35,8 +33,6 @@ https://www.appbrewery.co/p/web-development-course-resources
 <p align="center">
   <img width="460" height="300" src="https://github.com/sdkdeepa/Udemy-web-bootcamp/blob/master/WeatherApp.gif">
 </p>
-
----
 
 - Project 8: Newsletter Sign up - Html, CSS, Bootstrap, JS, Nodejs, express,API, NPM, Nodemon, body-parser etc - https://shrouded-river-17694.herokuapp.com/
 
@@ -127,8 +123,6 @@ mongoose, mongoose-encryption, dotenv, md5, bcrypt, passport, passport-local, pa
 - 264: Posting Data to Mailchimp's Servers via their API
 - 265: Adding Success and Failure Pages
 - 266: Deploying Your Server with Heroku
-
-Project: https://shrouded-river-17694.herokuapp.com/
 
 ### Section 22: EJS
 
