@@ -118,7 +118,7 @@ Project: Weather Project
 - 265: Adding Success and Failure Pages
 - 266: Deploying Your Server with Heroku 
 
-Project:  https://shrouded-river-17694.herokuapp.com/
+Project: https://gentle-wildwood-03304.herokuapp.com/
 
 ### Section 22: EJS
 - 282: Templates? Why Do We Need Templates?
